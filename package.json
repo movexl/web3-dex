@@ -1,6 +1,6 @@
 {
   "name": "@movexl/web3-dex",
-  "version": "1.0.145",
+  "version": "1.0.146",
   "description": "Description for web3-dex",
   "main": "src/index.js",
   "scripts": {
